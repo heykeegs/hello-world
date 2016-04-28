@@ -1,6 +1,6 @@
 # hello-world
 
-Heykeegs. Ima build an empire.
+Heykeegs.
 
 Have faith, be strong. 
 Stay in the mud.
